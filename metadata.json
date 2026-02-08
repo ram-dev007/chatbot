@@ -1,0 +1,5 @@
+{
+  "name": "Gemini RAG Chatbot",
+  "description": "A chatbot featuring RAG capabilities using Gemini's File API (Long Context), supporting file uploads, system prompts, and streaming responses.",
+  "requestFramePermissions": []
+}
